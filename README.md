@@ -50,6 +50,6 @@
 ### 🤝 Let's work together
 
 Need a system to replace spreadsheets, a mobile app, or a WhatsApp integration for your business?
-Message me on [WhatsApp](https://wa.me/201022983211) or email [info@darory.com](mailto:info@darory.com).
+Message me on [WhatsApp](https://wa.me/201022983211) or email [alaa@darory.com](mailto:alaa@darory.com).
 
 <p align="center"><sub>Made with ❤️ in Alexandria, Egypt</sub></p>
