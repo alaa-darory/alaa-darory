@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Alaa Samir — I build software that runs businesses" width="100%">
+  <img src="assets/cover.jpg" alt="Alaa Samir — I build software that runs businesses" width="100%">
 </p>
 
 <h2 align="center">Hi, I'm Alaa Samir 👋</h2>
