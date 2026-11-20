@@ -45,7 +45,7 @@
 
 | Project | What it does |
 |---|---|
-| [**darory/whatsapp**](https://github.com/darory/whatsapp) | PHP & Laravel SDK for the Darory WhatsApp API: send messages, media and locations from your app |
+| [**darory/whatsapp**](https://github.com/darory/whatsapp) | PHP & Laravel SDK for the Darory WhatsApp API: send messages, media and locations from your app | 
 
 ### 🤝 Let's work together
 
